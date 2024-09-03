@@ -1,5 +1,5 @@
 
-![Name](https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&text=Hey%20there%20👋&desc=I'm%20Vinay%20Ratna&descAlignY=67&descAlign=59&reversal=false&section=header)
+![Name](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=Hey%20there%20👋&desc=I'm%20Vinay%20Ratna&descAlignY=69&descAlign=59&reversal=false&section=header&fontSize=44)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA0FFE7&center=false&vCenter=true&width=435&lines=Background+in+Computer+Science;Interested+in+Data+Science+%26+ML;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
