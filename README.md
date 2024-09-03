@@ -1,8 +1,11 @@
 
-## Hey there, I'm Vinay 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6300&lines=Computer+Science+Engineering;Data+Science+enthusiast;Full+Stack+Web+Developer;Exploring+%26+expanding+my+knowledge)](https://git.io/typing-svg)
+## Hey there👋, <br>\t I'm Vinay Ratna 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA0FFE7&center=true&vCenter=true&width=435&lines=Background+in+Computer+Science;Interested+in+Data+Science+%26+ML;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-I am a hard-working, goal-oriented, and motivated person. I focus on my personal development to become a better version of myself. I like to practice & learn until I master a skill. I am strong in my communication, organizational, and time management skills, and also I'm open-minded to learning something new.
+**Bachelors student of Computer Science Engineering (Data Science) at KL University**
+**I'm interested in Data Science, AI, ML.**
+
+<!--I am a hard-working, goal-oriented, and motivated person. I focus on my personal development to become a better version of myself. I like to practice & learn until I master a skill. I am strong in my communication, organizational, and time management skills, and also I'm open-minded to learning something new. -->
 
 ## 🔥Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bvinayratna&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
